@@ -64,7 +64,7 @@ while True:
     elif vida_actual > 0 and escudo_activo:
         estado = 'Protegido'
     else:
-        estado = 'saludable'
+        estado = 'Saludable'
     #Mostramos estado
     print(f"Estado ---> {estado}")
 
