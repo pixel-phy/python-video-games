@@ -13,5 +13,5 @@
 ✅ Sistema de crítico y evasión.  
 ✅ Sistema de bonificaciones por afinidad.  
 ✅ Sistema de recompensa aleatoria.
-🆗 Proyecto integrados SEMANA 1.
+✅ Proyecto integrados SEMANA 1.
 
