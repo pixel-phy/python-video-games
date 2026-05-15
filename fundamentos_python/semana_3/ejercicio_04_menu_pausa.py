@@ -29,7 +29,7 @@ while True:
                     break
                 elif opcion3 == "2":
                     print(f"Has derrotado {enemigos} enemigos.")
-                    continue
+                    
                 elif opcion3 == "3":
                     opcion2 = "salir"
                     break
